@@ -43,3 +43,9 @@ Helped define targeted marketing campaigns and inventory optimization by identif
     1. High-performing product categories
     2. Customer segments by location
     3. Return/refund patterns
+
+## 👤 Author
+
+**Soumya Bhatnagar**  
+[GitHub Profile](https://github.com/Soumyabhatnagar1)  
+Email: Soumyabhatnagar07@gmail.com  
