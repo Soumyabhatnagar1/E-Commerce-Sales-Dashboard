@@ -48,4 +48,4 @@ Helped define targeted marketing campaigns and inventory optimization by identif
 
 **Soumya Bhatnagar**  
 [GitHub Profile](https://github.com/Soumyabhatnagar1)  
-Email: Soumyabhatnagar07@gmail.com  
+Email: soumyabhatnagar07@gmail.com  
