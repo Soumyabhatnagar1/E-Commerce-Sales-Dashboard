@@ -7,9 +7,9 @@ An interactive and fully dynamic Power BI dashboard designed to analyze and moni
 2. 🎯 Used advanced filters and slicers for deep data drilling and customized user interaction.
 3. 🔗 Established relationships between tables, used joins, and applied DAX calculations to create user-driven metrics and visuals.
 4. 📈 Visualized data using multiple customized chart types:
-   1.Bar, Pie, Donut, Clustered Bar
-   2.Line, Area, Scatter, Map
-   3.Interactive slicers for category-wise filtering
+   1. Bar, Pie, Donut, Clustered Bar
+   2. Line, Area, Scatter, Map
+   3. Interactive slicers for category-wise filtering
 
 ## 🛠️ Key Features:
 
