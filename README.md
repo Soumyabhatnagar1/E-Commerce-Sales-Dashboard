@@ -40,6 +40,6 @@ Automated reporting saved hours of manual Excel work, with dynamic filters and s
 
 5. 📍 Targeted Marketing & Inventory Strategy
 Helped define targeted marketing campaigns and inventory optimization by identifying:
-  1. High-performing product categories
-  2. Customer segments by location
-  3. Return/refund patterns
+    1. High-performing product categories
+    2. Customer segments by location
+    3. Return/refund patterns
